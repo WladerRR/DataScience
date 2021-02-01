@@ -14,7 +14,7 @@ Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, M
 ## Projetos:
 Lista de projetos em Jupyter Notebook:
 
-* **Análise dos Dados do Airbnb para Ottawa:** https://bit.ly/2oBxmeK
+* **Análise dos Dados do Airbnb para Ottawa:** http://bit.ly/3rhlrxJ
 
 ---
 
