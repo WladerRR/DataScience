@@ -4,13 +4,17 @@
   <img src="banner.png" >
 </p>
 
-# Wladerson Roman Rissi
 <sub>*Control and Automation Engineering and Data Science student</sub>
-
-**Background in:** Python, Machine Learning, Control, Automation and Mathematical Optimisation.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/wladerson)
+
+Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, Machine Learning e Deep Learning.
+
+## Projetos:
+Lista de projetos em Jupyter Notebook:
+
+* **Análise dos Dados do Airbnb para Ottawa:** https://bit.ly/2oBxmeK
 
 ---
 
